@@ -1,2 +1,2 @@
 # trackr-app
-Tailored-made gym tracking app
+Public repo for publishing releases only.
